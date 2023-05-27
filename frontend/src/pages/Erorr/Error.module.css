@@ -1,0 +1,25 @@
+.ErrorWrapper{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 60vh;
+
+}
+
+.ErrorHeader{
+    color: #ea3943;
+    font-size: 48px;
+    font-weight: bold;
+}
+
+.ErrorBody{
+    font-size: 30px;
+    margin: 20px 0px;
+}
+
+.homelink{
+    text-decoration: none;
+    font-weight: bold;
+    color: #3861fb;
+}
